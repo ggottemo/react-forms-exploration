@@ -1,0 +1,3 @@
+# Formik, react-final-form, react-hook-form with PrimeReact Components
+
+This repository serves as a testing ground to explore and evaluate the functionality and notation of Formik, react-final-form, and react-hook-form in combination with PrimeReact components. The objective is to assess the compatibility and effectiveness of these form management libraries with the PrimeReact UI component library.
